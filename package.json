@@ -38,7 +38,7 @@
     "semver": "~5.3.0"
   },
   "devDependencies": {
-    "apidoc-example": "*",
+    "apidoc-example": "github:codeandcraftinc/apidoc-example",
     "jshint": "~2.9.4",
     "markdown-it": "^8.3.1",
     "mocha": "~3.4.1",
